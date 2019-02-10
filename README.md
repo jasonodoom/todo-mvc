@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# todo-mvc
+A To Do List built with Rails
+>>>>>>> 8438a2757301bc30a66a46e2728d34ee7fdee8b1
